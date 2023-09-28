@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "447011621700",
+    "project_id": "salon-app-aa2ba",
+    "storage_bucket": "salon-app-aa2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447011621700:android:7dadd0663e13ffeb15e511",
+        "android_client_info": {
+          "package_name": "com.mic.salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447011621700-28ejja7b1crnj4j5fa2j816c34c919bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mic.salon",
+            "certificate_hash": "390f61f31ba7c639883e41b6f41fd500bb926499"
+          }
+        },
+        {
+          "client_id": "447011621700-5fdb20kpbtlce77ckf6rg0s7vq9tcf42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQenU7ZiSzGkMX6XN4EAHiE0sXQEp5WK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447011621700-5fdb20kpbtlce77ckf6rg0s7vq9tcf42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447011621700-0sfnvmgqehag441hil3ms6gq41mt62m9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.barber"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
