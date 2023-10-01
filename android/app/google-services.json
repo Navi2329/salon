@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "447011621700-sfbhe8u70rm0878eg0fo4c6i7ctujp9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mic.salon",
+            "certificate_hash": "ee36180b323a4710f9bee526055f00ad7c242c87"
+          }
+        },
+        {
           "client_id": "447011621700-5fdb20kpbtlce77ckf6rg0s7vq9tcf42.apps.googleusercontent.com",
           "client_type": 3
         }
