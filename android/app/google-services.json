@@ -14,19 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "447011621700-28ejja7b1crnj4j5fa2j816c34c919bp.apps.googleusercontent.com",
+          "client_id": "447011621700-mco40n07ddf6l227krj90u3kf2c8hsq6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.mic.salon",
-            "certificate_hash": "390f61f31ba7c639883e41b6f41fd500bb926499"
-          }
-        },
-        {
-          "client_id": "447011621700-sfbhe8u70rm0878eg0fo4c6i7ctujp9b.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.mic.salon",
-            "certificate_hash": "ee36180b323a4710f9bee526055f00ad7c242c87"
+            "certificate_hash": "9cb5cb5458e2e7d4b36b4273e1714443bf93a142"
           }
         },
         {

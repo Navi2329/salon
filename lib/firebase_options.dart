@@ -66,8 +66,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '447011621700',
     projectId: 'salon-app-aa2ba',
     storageBucket: 'salon-app-aa2ba.appspot.com',
-    androidClientId: '447011621700-28ejja7b1crnj4j5fa2j816c34c919bp.apps.googleusercontent.com',
-    iosClientId: '447011621700-8v97chpi5qtqmuer861m1epcom2tbum6.apps.googleusercontent.com',
+    androidClientId:
+        '447011621700-28ejja7b1crnj4j5fa2j816c34c919bp.apps.googleusercontent.com',
+    iosClientId:
+        '447011621700-8v97chpi5qtqmuer861m1epcom2tbum6.apps.googleusercontent.com',
     iosBundleId: 'com.mic.salon',
   );
 
@@ -77,8 +79,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '447011621700',
     projectId: 'salon-app-aa2ba',
     storageBucket: 'salon-app-aa2ba.appspot.com',
-    androidClientId: '447011621700-28ejja7b1crnj4j5fa2j816c34c919bp.apps.googleusercontent.com',
-    iosClientId: '447011621700-oge235ef4uu4hbg5fg2nbl9gkh1k8s0c.apps.googleusercontent.com',
-    iosBundleId: 'com.example.salon.RunnerTests',
+    androidClientId:
+        '447011621700-28ejja7b1crnj4j5fa2j816c34c919bp.apps.googleusercontent.com',
+    iosClientId:
+        '447011621700-oge235ef4uu4hbg5fg2nbl9gkh1k8s0c.apps.googleusercontent.com',
+    iosBundleId: 'com.mic.salon.RunnerTests',
   );
 }
